@@ -1,2 +1,3 @@
-# resume-
-My resume website
+# My Resume Website
+
+This is my online resume.
